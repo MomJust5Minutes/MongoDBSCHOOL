@@ -1,0 +1,35 @@
+{
+  "_id": {
+    "$oid": "65f99e1409135f1a6b7313a3"
+  },
+  "nome": "Engenharia Eletrica",
+  "code": "ENGEL101",
+  "professores": [
+    "Gabriel Rodrigues",
+    "Eduarda Martins"
+  ]
+}
+
+{
+  "_id": {
+    "$oid": "65f99e1409135f1a6b7313a4"
+  },
+  "nome": "Engenharia Civil",
+  "code": "ENCI201",
+  "professores": [
+    "Michael Ferreira",
+    "Sara Costa"
+  ]
+}
+
+{
+  "_id": {
+    "$oid": "65f99e1409135f1a6b7313a5"
+  },
+  "nome": "Engenharia Mecânica",
+  "code": "ENME301",
+  "professores": [
+    "Davi Fernandes",
+    "Rachel Gomes"
+  ]
+}
